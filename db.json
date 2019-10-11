@@ -1,13 +1,5 @@
 {
   "generate": {
-    "id": 0,
-    "code": "string",
-    "challengeQuestion": [
-      {
-        "locale": "string",
-        "description": "string"
-      }
-    ],
     "validationCode": [
       {
         "code": "string",
