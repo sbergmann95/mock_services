@@ -1,27 +1,29 @@
 {
-  "id": 0,
-  "brandId": 0,
-  "type": "string",
-  "lineOfBusiness": "string",
-  "code": "string",
-  "challengeQuestion": [
-    {
-      "locale": "string",
-      "description": "string"
-    }
-  ],
-  "mandatoryResponse": true,
-  "responseTypeId": 0,
-  "responseFormatTypeId": 0,
-  "responseMaxLength": 0,
-  "validationCode": [
-    {
-      "code": "string",
-      "subscriptionId": "string",
-      "status": "string",
-      "updatedById": "string",
-      "subscriberId": "string",
-      "accountNumber": "string"
-    }
-  ]
+  "generate": {
+    "id": 0,
+    "brandId": 0,
+    "type": "string",
+    "lineOfBusiness": "string",
+    "code": "string",
+    "challengeQuestion": [
+      {
+        "locale": "string",
+        "description": "string"
+      }
+    ],
+    "mandatoryResponse": true,
+    "responseTypeId": 0,
+    "responseFormatTypeId": 0,
+    "responseMaxLength": 0,
+    "validationCode": [
+      {
+        "code": "string",
+        "subscriptionId": "string",
+        "status": "string",
+        "updatedById": "string",
+        "subscriberId": "string",
+        "accountNumber": "string"
+      }
+    ]
+  }
 }
