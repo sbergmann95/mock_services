@@ -1,9 +1,6 @@
 {
   "generate": {
     "id": 0,
-    "brandId": 0,
-    "type": "string",
-    "lineOfBusiness": "string",
     "code": "string",
     "challengeQuestion": [
       {
@@ -11,10 +8,6 @@
         "description": "string"
       }
     ],
-    "mandatoryResponse": true,
-    "responseTypeId": 0,
-    "responseFormatTypeId": 0,
-    "responseMaxLength": 0,
     "validationCode": [
       {
         "code": "string",
